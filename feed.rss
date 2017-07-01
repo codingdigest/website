@@ -29,5 +29,17 @@
       <guid>http://codingdigest.com/podcasts/ep1.m4a</guid>
     </item>
 
+    <item>
+      <title>Episode #2 - June 30, 2017</title>
+      <itunes:author>Samer Buna and Trey Huffine</itunes:author>
+      <itunes:description>Prettier, Safari, D language, Babel, V8, TypeScript, Unicode, MDN, and Webpack</itunes:description>
+      <enclosure url="http://codingdigest.com/podcasts/ep2.m4a" length="2598408" type="audio/x-m4a"/>
+      <pubDate>June, 30 May 2017 18:00:00 GMT</pubDate>
+      <itunes:order>1</itunes:order>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3:03</itunes:duration>
+      <guid>http://codingdigest.com/podcasts/ep2.m4a</guid>
+    </item>
+
   </channel>
 </rss>
