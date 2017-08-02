@@ -3,12 +3,12 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
 
-    <title>The 3-Minute Coding Digest Podcast</title>
+    <title>The 3-Minute Coding Digest</title>
     <link>http://codingdigest.com</link>
     <language>en-us</language>
     <description>Short summaries of the latest and most important news that are happening in the coding world</description>
     <copyright>Copyright 2017 Agilelabs LLC</copyright>
-    <itunes:author>EdgeCoders</itunes:author>
+    <itunes:author>EdgeCoders.com</itunes:author>
     <itunes:description>Short summaries of the latest and most important news that are happening in the coding world</itunes:description>
     <itunes:explicit>no</itunes:explicit>
     <itunes:email>codingdigest@agilelabs.com</itunes:email>
@@ -18,10 +18,11 @@
     <category>Technology</category>
     <category>News</category>
     <item>
-      <title>Episode #1 - May 31, 2017</title>
+      <title>Node 8, React, Kotlin, Stack Overflow Trends, and WebAssembly</title>
       <itunes:author>Samer Buna and Trey Huffine</itunes:author>
-      <itunes:description>Node 8, NPM 5, updates to React, Kotlin on Android, Stack Overflow Trends, and WebAssembly</itunes:description>
-      <enclosure url="http://codingdigest.com/podcasts/ep1.m4a" length="2527283" type="audio/x-m4a"/>
+      <itunes:subtitle>#1 - May 31, 2017</itunes:subtitle>
+      <itunes:description>#1 - May 31, 2017</itunes:description>
+      <enclosure url="http://dts.podtrac.com/redirect.m4a/codingdigest.com/podcasts/ep1.m4a" length="2527283" type="audio/x-m4a"/>
       <pubDate>Wed, 31 May 2017 18:00:00 GMT</pubDate>
       <itunes:order>1</itunes:order>
       <itunes:explicit>no</itunes:explicit>
@@ -30,15 +31,29 @@
     </item>
 
     <item>
-      <title>Episode #2 - June 30, 2017</title>
+      <title>Prettier, Safari, D language, Babel, V8, TypeScript, Unicode, MDN, and Webpack</title>
       <itunes:author>Samer Buna and Trey Huffine</itunes:author>
-      <itunes:description>Prettier, Safari, D language, Babel, V8, TypeScript, Unicode, MDN, and Webpack</itunes:description>
-      <enclosure url="http://codingdigest.com/podcasts/ep2.m4a" length="2598408" type="audio/x-m4a"/>
-      <pubDate>June, 30 May 2017 18:00:00 GMT</pubDate>
-      <itunes:order>1</itunes:order>
+      <itunes:subtitle>#2 - June 30, 2017</itunes:subtitle>
+      <itunes:description>#2 - June 30, 2017</itunes:description>
+      <enclosure url="http://dts.podtrac.com/redirect.m4a/codingdigest.com/podcasts/ep2.m4a" length="2598408" type="audio/x-m4a"/>
+      <pubDate>Fri, 30 June 2017 18:00:00 GMT</pubDate>
+      <itunes:order>2</itunes:order>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>3:03</itunes:duration>
       <guid>http://codingdigest.com/podcasts/ep2.m4a</guid>
+    </item>
+
+    <item>
+      <title>ES8, Flash, Gitter, NPX, OCI, and React 16</title>
+      <itunes:author>Samer Buna and Trey Huffine</itunes:author>
+      <itunes:subtitle>#3 - July 31, 2017</itunes:subtitle>
+      <itunes:description>#3 - July 31, 2017</itunes:description>
+      <enclosure url="http://dts.podtrac.com/redirect.m4a/codingdigest.com/podcasts/ep3.m4a" length="2560964" type="audio/x-m4a"/>
+      <pubDate>Mon, 31 July 2017 18:00:00 GMT</pubDate>
+      <itunes:order>3</itunes:order>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3:00</itunes:duration>
+      <guid>http://codingdigest.com/podcasts/ep3.m4a</guid>
     </item>
 
   </channel>
