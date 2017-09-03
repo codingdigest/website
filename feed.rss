@@ -56,5 +56,18 @@
       <guid>http://codingdigest.com/podcasts/ep3.m4a</guid>
     </item>
 
+    <item>
+      <title>Goby, Go, .NET, Bootstrap 4, Android 8, and HTTP/2</title>
+      <itunes:author>Samer Buna and Trey Huffine</itunes:author>
+      <itunes:subtitle>#4 - August 31, 2017</itunes:subtitle>
+      <itunes:description>#4 - August 31, 2017</itunes:description>
+      <enclosure url="http://dts.podtrac.com/redirect.m4a/codingdigest.com/podcasts/ep4.m4a" length="2378104" type="audio/x-m4a"/>
+      <pubDate>Thu, 31 August 2017 18:00:00 GMT</pubDate>
+      <itunes:order>4</itunes:order>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2:46</itunes:duration>
+      <guid>http://codingdigest.com/podcasts/ep4.m4a</guid>
+    </item>
+
   </channel>
 </rss>
