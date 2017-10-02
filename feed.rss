@@ -69,5 +69,18 @@
       <guid>http://codingdigest.com/podcasts/ep4.m4a</guid>
     </item>
 
+    <item>
+      <title>React 16, major language releases, Chrome 61, and Yarn</title>
+      <itunes:author>Samer Buna and Trey Huffine</itunes:author>
+      <itunes:subtitle>#5 - September 30, 2017</itunes:subtitle>
+      <itunes:description>#5 - September 30, 2017</itunes:description>
+      <enclosure url="http://dts.podtrac.com/redirect.m4a/codingdigest.com/podcasts/ep5.m4a" length="2475424" type="audio/x-m4a"/>
+      <pubDate>Sat, 30 September 2017 18:00:00 GMT</pubDate>
+      <itunes:order>5</itunes:order>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2:53</itunes:duration>
+      <guid>http://codingdigest.com/podcasts/ep5.m4a</guid>
+    </item>
+
   </channel>
 </rss>
