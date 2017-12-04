@@ -86,13 +86,26 @@
       <title>MDB, Node, Firebug, Android, Graphcool, and Google Planets</title>
       <itunes:author>Samer Buna and Trey Huffine</itunes:author>
       <itunes:subtitle>#6 - October 31, 2017</itunes:subtitle>
-      <itunes:description>#5 - October 31, 2017</itunes:description>
+      <itunes:description>#6 - October 31, 2017</itunes:description>
       <enclosure url="http://dts.podtrac.com/redirect.m4a/codingdigest.com/podcasts/ep6.m4a" length="2325460" type="audio/x-m4a"/>
       <pubDate>Tue, 31 October 2017 18:00:00 GMT</pubDate>
       <itunes:order>6</itunes:order>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>2:44</itunes:duration>
       <guid>http://codingdigest.com/podcasts/ep6.m4a</guid>
+    </item>
+
+    <item>
+      <title>WebAssembly, React, GitHub Security Alerts, Angular, and more</title>
+      <itunes:author>Samer Buna and Trey Huffine</itunes:author>
+      <itunes:subtitle>#7 - November 30, 2017</itunes:subtitle>
+      <itunes:description>#7 - November 30, 2017</itunes:description>
+      <enclosure url="http://dts.podtrac.com/redirect.m4a/codingdigest.com/podcasts/ep7.m4a" length="3297724" type="audio/x-m4a"/>
+      <pubDate>Thu, 30 November 2017 18:00:00 GMT</pubDate>
+      <itunes:order>7</itunes:order>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3:53</itunes:duration>
+      <guid>http://codingdigest.com/podcasts/ep7.m4a</guid>
     </item>
 
   </channel>
